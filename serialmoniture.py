@@ -1,3 +1,5 @@
+# this code is ai generated
+
 import serial
 import serial.tools.list_ports
 import time
