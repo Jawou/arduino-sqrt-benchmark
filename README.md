@@ -7,9 +7,13 @@ main.c is the source code of main.hex it calculates how much iterations are poss
 you can upload the hex file to the arduino uno r3 and use the serialmoniture and it should work without modifications
 
 my results are:
+
 NAIVE: 2004
+
 BINARY SEARCH: 29336
+
 NEWTONS: 13338
+
 QUAKE III: 26798
 
 maybe there is a way to physically change crystal clock on the arduino to over clock it 🤔
